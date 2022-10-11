@@ -1,2 +1,5 @@
 fallVenv/
 yolov5/
+labelImg-master/
+output_images/
+.vscode/settings.json
